@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sales_control/core/repositories/database.dart';
+import 'package:sales_control/core/repositories/database_helper.dart';
 import 'package:sales_control/models/entry_validators_model.dart';
 import 'package:sqflite/sqflite.dart';
 import 'cash_panel_widget.dart';
