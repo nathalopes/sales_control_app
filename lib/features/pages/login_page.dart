@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sales_control/models/login_model.dart';
+import 'package:sales_control/features/validators/login_validator.dart';
 
 class LoginPage extends StatefulWidget {
   @override

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sales_control/features/widgets/default_drawer_widget.dart';
-import '../widgets/register_form.dart';
+
+import 'widgets/default_drawer_widget.dart';
+import 'widgets/register_form.dart';
 
 class RegisterPage extends StatefulWidget {
   RegisterPage({key}) : super(key: key);

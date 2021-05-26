@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:sales_control/features/widgets/cash_panel_widget.dart';
-import 'package:sales_control/features/widgets/default_drawer_widget.dart';
+
+import 'widgets/cash_panel_widget.dart';
+import 'widgets/default_drawer_widget.dart';
 
 class HistoryPage extends StatelessWidget {
   @override

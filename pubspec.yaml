@@ -23,17 +23,24 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sqflite: ^2.0.0+3
-  uuid: ^3.0.4
+  uuid:
   intl:
-  path_provider: ^2.0.1
+  path_provider:
+  moor:
+  path:
+  sqlite3_flutter_libs: ^0.4.3
+  moor_flutter:
+
+dependency_overrides:
+  build_resolvers:
 
 dev_dependencies:
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  args: ^2.1.0
+  args:
+  build_runner:
+  moor_generator:
 
 # The following section is specific to Flutter.
 flutter:
